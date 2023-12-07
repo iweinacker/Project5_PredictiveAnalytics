@@ -34,7 +34,7 @@ You can safely delete the Codeanywhere Template Instructions section of this REA
 
 1. Click the button Not Trusted and choose Trust..
 
-Note that the kernel says Python 3. It inherits from the workspace so it will be Python-3.8.12 as installed by our template. To confirm this you can use <code>! python --version</code> in a notebook code cell.
+Note that the kernel says Python 3. It inherits from the workspace so it will be Python-3.8.12 as installed by our template. To confirm this you can use <code>! python --version</code> in a notebook code cell..
 
 ## Cloud IDE Reminders
 
