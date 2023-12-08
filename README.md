@@ -30,10 +30,10 @@ You can safely delete the Codeanywhere Template Instructions section of this REA
 
 1. Open port 8888 preview or browser
 
-1. Open the jupyter_notebooks directory in the jupyter webpage that has opened and click on the notebook you want to open.
+1. Open the jupyter_notebooks directory in the jupyter webpage that has opened and click on the notebook you want to open..
 
 2. Click the button Not Trusted and choose Trust.
-Note that the kernel says Python 3. It inherits from the workspace so it will be Python-3.8.12 as installed by our template. To confirm this you can use <code>! python --version</code> in a notebook code cell..
+Note that the kernel says Python 3. It inherits from the workspace so it will be Python-3.8.12 as installed by our template. To confirm this you can use <code>! python --version</code> in a notebook code cell.
 
 ## Cloud IDE Reminders
 
